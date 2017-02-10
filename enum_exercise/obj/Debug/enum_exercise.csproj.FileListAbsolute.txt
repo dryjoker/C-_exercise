@@ -1,0 +1,6 @@
+D:\CS_Exercise\enum_exercise\enum_exercise\bin\Debug\enum_exercise.exe.config
+D:\CS_Exercise\enum_exercise\enum_exercise\bin\Debug\enum_exercise.exe
+D:\CS_Exercise\enum_exercise\enum_exercise\bin\Debug\enum_exercise.pdb
+D:\CS_Exercise\enum_exercise\enum_exercise\obj\Debug\enum_exercise.csprojResolveAssemblyReference.cache
+D:\CS_Exercise\enum_exercise\enum_exercise\obj\Debug\enum_exercise.exe
+D:\CS_Exercise\enum_exercise\enum_exercise\obj\Debug\enum_exercise.pdb
